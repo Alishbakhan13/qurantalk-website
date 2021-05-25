@@ -61,6 +61,7 @@
   .appstore-item img {
     width: 165px;
     height: 60px;
+    margin-left: 10px;
     margin-bottom: 60px;
     margin-top: 10px;
   }
